@@ -110,7 +110,7 @@ endmodule
 
 
 #### DOWN COUNTER
-![image](https://github.com/varshasharon/Exp-7-Synchornous-counters-/assets/98278161/e6e07a48-32a4-490b-9e96-8be9a7f50bfa)
+![image](https://github.com/varshasharon/Exp-7-Synchornous-counters-/assets/98278161/ce3cb4ee-9730-4ee5-ac77-0a4b7768796c)
 
 
 ### RESULTS 
